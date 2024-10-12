@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5c6a2fa.css",
+    "main.js": "/static/js/main.1b67de56.js",
+    "static/js/453.3925e94e.chunk.js": "/static/js/453.3925e94e.chunk.js",
+    "static/media/header1.png": "/static/media/header1.bb07ce3991ffbc9ebad8.png",
+    "static/media/pdf1.png": "/static/media/pdf1.f7098e68bf6d949de1ae.png",
+    "static/media/pdf1.pdf": "/static/media/pdf1.f44313a1b0c8e86b5e9b.pdf",
+    "static/media/pdf2.png": "/static/media/pdf2.04a956b1923839ac09bc.png",
+    "static/media/pdf2.pdf": "/static/media/pdf2.c65b8c387618de5d0f2e.pdf",
+    "static/media/offline2.png": "/static/media/offline2.9618acaeeea29991675e.png",
+    "static/media/online2.png": "/static/media/online2.5bcf173237bb83a26e15.png",
+    "static/media/online.png": "/static/media/online.baac7c5ba92a1a3135ba.png",
+    "static/media/offline.png": "/static/media/offline.6e614bf1d810f2449c7d.png",
+    "static/media/abramova.png": "/static/media/abramova.0cdaec349a91d15019db.png",
+    "static/media/abramova2.jpeg": "/static/media/abramova2.0da089a2adcccec5d4eb.jpeg",
+    "static/media/TRIAL_Oceanic-Extrabold-BF6487cfe5e8eff.otf": "/static/media/TRIAL_Oceanic-Extrabold-BF6487cfe5e8eff.9018497761382f46b61a.otf",
+    "static/media/TRIAL_Oceanic-Medium-BF6487cfe5e2078.otf": "/static/media/TRIAL_Oceanic-Medium-BF6487cfe5e2078.69a3284f441336f30a44.otf",
+    "static/media/TRIAL_Oceanic-Bold-BF6487cfe5cfe3d.otf": "/static/media/TRIAL_Oceanic-Bold-BF6487cfe5cfe3d.99521337d7689f1ecb03.otf",
+    "static/media/TRIAL_Oceanic-Regular-BF6487cfe600a81.otf": "/static/media/TRIAL_Oceanic-Regular-BF6487cfe600a81.13e623083d78ca6347c2.otf",
+    "static/media/TRIAL_Oceanic-Poster-BF6487cfe5ecab1.otf": "/static/media/TRIAL_Oceanic-Poster-BF6487cfe5ecab1.e442d83efb52585ab2b9.otf",
+    "static/media/TRIAL_Oceanic-Light-BF6487cfe5eb596.otf": "/static/media/TRIAL_Oceanic-Light-BF6487cfe5eb596.dbb5085f59aa6d2490da.otf",
+    "static/media/whatsapp2.png": "/static/media/whatsapp2.27bbbcf519bc9b7b31b0.png",
+    "static/media/mail.png": "/static/media/mail.e487f53168c19f045a08.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.8f84e8ce77ed527f4465.png",
+    "static/media/gps.png": "/static/media/gps.6a04ac9b0ed19a608e1d.png",
+    "static/media/phone.png": "/static/media/phone.f94f3a988bb81590cdd5.png",
+    "static/media/telegram2.png": "/static/media/telegram2.6ea7b05c265797c650e5.png",
+    "static/media/pdf.png": "/static/media/pdf.6279a47b4effd0a7eae7.png",
+    "index.html": "/index.html",
+    "main.f5c6a2fa.css.map": "/static/css/main.f5c6a2fa.css.map",
+    "main.1b67de56.js.map": "/static/js/main.1b67de56.js.map",
+    "453.3925e94e.chunk.js.map": "/static/js/453.3925e94e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5c6a2fa.css",
+    "static/js/main.1b67de56.js"
+  ]
+}
