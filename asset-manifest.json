@@ -1,8 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.530823ff.css",
-    "main.js": "/static/js/main.8fed8145.js",
+    "main.css": "/static/css/main.06b66f37.css",
+    "main.js": "/static/js/main.f535b637.js",
     "static/js/453.3f65691d.chunk.js": "/static/js/453.3f65691d.chunk.js",
+    "static/media/4.png": "/static/media/4.af6aaf41d7b90886ff1a.png",
+    "static/media/1.png": "/static/media/1.2b81445900388174a5b1.png",
+    "static/media/3.png": "/static/media/3.1b17875003a4722ee409.png",
+    "static/media/2.png": "/static/media/2.d7641f86da351367fe70.png",
     "static/media/pdf1.png": "/static/media/pdf1.f7098e68bf6d949de1ae.png",
     "static/media/header1.png": "/static/media/header1.fc482ac2f70896911f44.png",
     "static/media/Первый_секс_разговор_с_подростком.pdf": "/static/media/Первый_секс_разговор_с_подростком.f44313a1b0c8e86b5e9b.pdf",
@@ -14,32 +18,27 @@
     "static/media/online.png": "/static/media/online.baac7c5ba92a1a3135ba.png",
     "static/media/offline.png": "/static/media/offline.6e614bf1d810f2449c7d.png",
     "static/media/logonavbar.JPG": "/static/media/logonavbar.d758b108dd754ab15bb4.JPG",
-    "static/media/1.jpg": "/static/media/1.ab43fc0ae4f4146fb921.jpg",
     "static/media/abramova2.jpeg": "/static/media/abramova2.0da089a2adcccec5d4eb.jpeg",
-    "static/media/5.jpg": "/static/media/5.ee5fbb8c910d3f1f8867.jpg",
     "static/media/TRIAL_Oceanic-Extrabold-BF6487cfe5e8eff.otf": "/static/media/TRIAL_Oceanic-Extrabold-BF6487cfe5e8eff.9018497761382f46b61a.otf",
     "static/media/TRIAL_Oceanic-Medium-BF6487cfe5e2078.otf": "/static/media/TRIAL_Oceanic-Medium-BF6487cfe5e2078.69a3284f441336f30a44.otf",
     "static/media/TRIAL_Oceanic-Bold-BF6487cfe5cfe3d.otf": "/static/media/TRIAL_Oceanic-Bold-BF6487cfe5cfe3d.99521337d7689f1ecb03.otf",
     "static/media/TRIAL_Oceanic-Regular-BF6487cfe600a81.otf": "/static/media/TRIAL_Oceanic-Regular-BF6487cfe600a81.13e623083d78ca6347c2.otf",
     "static/media/TRIAL_Oceanic-Poster-BF6487cfe5ecab1.otf": "/static/media/TRIAL_Oceanic-Poster-BF6487cfe5ecab1.e442d83efb52585ab2b9.otf",
-    "static/media/3.jpg": "/static/media/3.b0951a68e9f4ef33b995.jpg",
     "static/media/TRIAL_Oceanic-Light-BF6487cfe5eb596.otf": "/static/media/TRIAL_Oceanic-Light-BF6487cfe5eb596.dbb5085f59aa6d2490da.otf",
-    "static/media/4.jpg": "/static/media/4.ceb1e98b3cd88b8154b4.jpg",
     "static/media/whatsapp2.png": "/static/media/whatsapp2.27bbbcf519bc9b7b31b0.png",
     "static/media/mail.png": "/static/media/mail.e487f53168c19f045a08.png",
-    "static/media/2.jpg": "/static/media/2.0b56a260b7b1b2a1365d.jpg",
     "static/media/whatsapp.png": "/static/media/whatsapp.8f84e8ce77ed527f4465.png",
     "static/media/gps.png": "/static/media/gps.6a04ac9b0ed19a608e1d.png",
     "static/media/phone.png": "/static/media/phone.f94f3a988bb81590cdd5.png",
     "static/media/telegram2.png": "/static/media/telegram2.6ea7b05c265797c650e5.png",
     "static/media/pdf.png": "/static/media/pdf.6279a47b4effd0a7eae7.png",
     "index.html": "/index.html",
-    "main.530823ff.css.map": "/static/css/main.530823ff.css.map",
-    "main.8fed8145.js.map": "/static/js/main.8fed8145.js.map",
+    "main.06b66f37.css.map": "/static/css/main.06b66f37.css.map",
+    "main.f535b637.js.map": "/static/js/main.f535b637.js.map",
     "453.3f65691d.chunk.js.map": "/static/js/453.3f65691d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.530823ff.css",
-    "static/js/main.8fed8145.js"
+    "static/css/main.06b66f37.css",
+    "static/js/main.f535b637.js"
   ]
 }
